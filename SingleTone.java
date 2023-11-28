@@ -1,4 +1,6 @@
-🖥️ Code Snippet: Singleton Design Pattern in Java 🚀
+//🖥️ Code Snippet: Singleton Design Pattern in Java 🚀
+
+package Singletone.singeltone;
 
 public class DatabaseConnection {
     static DatabaseConnection databaseConnection = null;
